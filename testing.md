@@ -51,9 +51,9 @@ ___
 2. Item 2
 
 <!-- Inline Code Block -->
-<html>
-<p>This is a paragraph</p>
-<html>
+
+`<p>This is a paragraph</p>`
+
 
 <!-- Images -->
 ![Markdown Logo](https://bit.ly/fcc-relaxing-cat)
