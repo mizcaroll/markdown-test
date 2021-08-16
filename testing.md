@@ -86,4 +86,4 @@ def add(num1, num2):
 <!-- Task Lists -->
 * [x] Research Markdown Editor
 * [x] Test Markdown Editor
-* [] Apply Markdown Editor in Real-life Project
+* [ ] Apply Markdown Editor in Real-life Project
